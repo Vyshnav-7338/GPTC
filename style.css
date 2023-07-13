@@ -1,0 +1,87 @@
+.icongptc {
+    height: 60px;
+    margin-left: 20px;
+}
+
+
+header{
+    width: 100%;
+  position: fixed;
+    z-index: 1;
+}
+
+.navlinks {
+    padding-top: 20px;
+    text-align: center;
+
+}
+
+h1 {
+    margin: 0 0 10px 40px;
+    font-size: 46px;
+    font-weight: 700;
+    line-height: 45px;
+    color: #2F71B3;
+    font-family: calibri;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.place {
+    text-align: center;
+    font-size: medium;
+    font-weight: bold;
+}
+
+.placementHead {
+    margin-top: 1em;
+    background-color: #EFECEA;
+
+
+
+}
+
+.placementHead {
+
+    text-align: center;
+    font-weight: bold;
+
+
+}
+.placementOfficerName{
+    padding-left: 2em;
+    padding-top: 10px;
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    font-weight: bold;
+}
+.placementOfficer{
+    padding-left: 2em;
+    color: #2F71B3;
+    font-weight: bold;
+}
+
+.listCompany{
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.linksHead{
+    color: #2F71B3;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+hr{
+    border: 5px solid black;
+    border-radius: 2px;
+    width: 100%;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: #fff;
+   
+}
